@@ -5,9 +5,9 @@ public class Principal {
 
 	public static void main(String[] args) {
 
-		String nombre = "Vicent";
+		String nom = "Vicent";
 		String numtlf = "695263711";
-		Profesor profe = new Profesor(nombre, 21, numtlf);
+		Profesor profe = new Profesor(nom, 21, numtlf);
 
 		System.out.println(profe);
 
