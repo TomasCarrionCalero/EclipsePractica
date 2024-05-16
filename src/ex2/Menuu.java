@@ -12,7 +12,7 @@ public static void main(String[] args) {
 		
 		//partida1.movement("Abajo");
 		partida1.movement("Derecha");
-		partida1.movement("Derecha");
+		partida1.movement("Deecha");
 		partida1.movement("Abajo");
 		partida1.movement("Arriba");
 						
